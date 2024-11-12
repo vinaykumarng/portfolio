@@ -1,2 +1,6 @@
-# This is my protfolio
-u can find all about me through this portfolio 
+# Portfolio Project
+
+This is a personal project of building a Portfolio <br>
+
+<h3> NOTE <h3> This project is not complete yet
+

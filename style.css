@@ -16,7 +16,7 @@
 }
 
 .nav-logo{
-    background-image: url(vk_logo.png);
+    background-image: url(./assests/vk_logo.png);
     height: 40px;
     width :40px;
     background-size: cover;
@@ -66,7 +66,7 @@
 .body-img{
     height : 420px;
     width: 50%;
-    background-image: url(vinay_img.jpg);
+    background-image: url(./assests/vinay_img.jpg);
     background-size: cover;
 }
 
